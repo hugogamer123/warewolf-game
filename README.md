@@ -1,5 +1,5 @@
 # Werewolf Unity Game
-Welcome to the Werewolf github repo, whether you want to see the code or volunteer some changes, you are welcome. The following README explains how to get the project setup and start doing commits
+Welcome to the Werewolf github repository, whether you want to see the code or volunteer some changes, you are welcome. The following README explains how to get the project setup and start doing commits
 
 ## What is this game?
 Ok, you probably don't know what this game is about, so here's a brief description. Video game based about the social party game, [Werewolf](https://en.wikipedia.org/wiki/Mafia_(party_game)) (Ok it says mafia but imagine that with werewolf, that's what we're doing here)
